@@ -1,0 +1,7 @@
+$.pyc
+/Include
+/Lib
+/Scripts
+/tcl
+db.sqlite3
+pip-selfcheck.json
